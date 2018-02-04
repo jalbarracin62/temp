@@ -124,7 +124,7 @@ die() ;
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="sesion1.html">
+                    <a class="lightbox" href="sesion1.jsp">
                         <img src="images/park.jpg" alt="Park">
                     </a>
                     <div class="caption">
