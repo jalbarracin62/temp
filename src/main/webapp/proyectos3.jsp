@@ -128,7 +128,7 @@ die() ;
                         <img src="images/park.jpg" alt="Park">
                     </a>
                     <div class="caption">
-                        <h3>Thumbnail label</h3>
+                        <h3>Thumbnail labeeeeeeeeeeeeel</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     </div>
                 </div>
