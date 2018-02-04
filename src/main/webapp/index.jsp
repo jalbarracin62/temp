@@ -62,7 +62,7 @@
                         <span class="icon icon-bar"></span>
                         <span class="icon icon-bar"></span>
                     </button>
-                    <a href="#" class="navbar-brand">Drone Company</a>
+                    <a href="#" class="navbar-brand">SpyBee</a>
                 </div>
 
                 <div class="collapse navbar-collapse">
@@ -72,7 +72,7 @@
                         <li class="nav-item"><a href="#overview" class="nav-link js-scroll-trigger">Sobre nosotros</a></li>
                         <li class="nav-item"><a href="#speakers" class="nav-link js-scroll-trigger">Servicios</a></li>
                         <!--<li class="nav-item"><a href="#program" class="nav-link js-scroll-trigger">Programs</a></li>-->
-                        <li class="nav-item"><a href="#register" class="nav-link js-scroll-trigger">Registro</a></li>
+                        <li class="nav-item"><a href="#register" class="nav-link js-scroll-trigger">Cotiza</a></li>
                         <!--<li class="nav-item"><a href="#venue" class="nav-link js-scroll-trigger">Venue</a></li>-->
                         <!--<li class="nav-item"><a href="#sponsors" class="nav-link js-scroll-trigger">Sponsors</a></li>-->
                         <li class="nav-item"><a href="#contact" class="nav-link js-scroll-trigger">Contacto</a></li>
@@ -92,8 +92,8 @@
                 <div class="row">
 
                     <div class="col-md-12 col-sm-12">
-                        <h3 class="wow bounceIn" data-wow-delay="0.9s">lo que se quiera poner</h3>
-                        <h1 class="wow fadeInUp" data-wow-delay="1.6s">lo que se quiera poner 2</h1>
+                        <h3 class="wow bounceIn" data-wow-delay="0.9s">SpyBee</h3>
+                        <h1 class="wow fadeInUp" data-wow-delay="1.6s">Vemos por ti</h1>
                         <a href="sesion.jsp" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2s" >INICIAR SESION</a>
 
                         <!--<a href="#register"  class="btn btn-lg btn-danger  smoothScroll wow fadeInUp" data-wow-delay="2s">REGISTRO</a>-->
@@ -113,8 +113,8 @@
                 <div class="row">
 
                     <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.6s">
-                        <h3>Aqui va el titulo de la descripcion</h3>
-                        <p>parrafo descripcion acerca de nosotros</p>
+                        <h3>¿ Quienes somos ?</h3>
+                        <p>Somos un equipo de profecionales, ingenieros civiles especialistas en estructuras , mecanicos, electronicos y administradores con experiencia en procesos constructivos dedicada al seguimiento de obras e infraestructura civil utilizando la ultima tecnologia </p>
 
                     </div>
 
@@ -239,20 +239,23 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-lg-8 mx-auto text-center">
-                                            <h2 class="section-heading">Let's Get In Touch!</h2>
+                                            <h2 class="section-heading">Contactanos!</h2>
                                             <hr class="my-4">
-                                            <p class="mb-5">Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                                            <p class="mb-5">Listo para empezar un nuevo proyecto con nosotros ?    Genial ! Llamanos o envianos un email y nosotros nos pondremos en contacto tan pronto como sea posible  !</p>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-4 ml-auto text-center">
                                             <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
-                                            <p>123-456-6789</p>
+                                            <p>300-3461645</p>
+                                            <p>310-7827044</p>
+                                            <p>301-7967632</p>
+                                            <p>302-2585014</p>
                                         </div>
                                         <div class="col-lg-4 mr-auto text-center">
                                             <i class="fa fa-envelope-o fa-3x mb-3 sr-contact"></i>
                                             <p>
-                                                <a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a>
+                                                <a href="info.spybee@gmail.com">info.spybee@gmail.com</a>
                                             </p>
                                         </div>
                                     </div>
@@ -274,12 +277,12 @@
                 <div class="row">
 
                     <div class="col-md-12 col-sm-12">
-                        <p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2018 drone company 
+                        <p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2018 spybee 
 
                             | Design: <a rel="nofollow" href="" target="_parent">JALBARRACIN</a></p>
 
                         <ul class="social-icon">
-                            <li><a href="#" class="fa fa-facebook wow fadeInUp" data-wow-delay="1s"></a></li>
+                            <li><a href="https://www.facebook.com/SpyBee-333083987097441/" class="fa fa-facebook wow fadeInUp" data-wow-delay="1s"></a></li>
                             <li><a href="#" class="fa fa-twitter wow fadeInUp" data-wow-delay="1.3s"></a></li>
                             <li><a href="#" class="fa fa-dribbble wow fadeInUp" data-wow-delay="1.6s"></a></li>
                             <li><a href="#" class="fa fa-behance wow fadeInUp" data-wow-delay="1.9s"></a></li>
