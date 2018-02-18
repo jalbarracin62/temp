@@ -136,20 +136,20 @@
 
                     <div class="wow fadeInLeft col-md-4 col-sm-4" data-wow-delay="0.3s">
                         <i class="fa fa-group"></i>
-                        <h3>399  proyectos</h3>
-                        <p>descripcion  algo de proyectos</p>
+                        <h3>Seguimiento de tus proyectos</h3>
+                       
                     </div>
 
                     <div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.6s">
                         <i class="fa fa-clock-o"></i>
-                        <h3>12 participantes</h3>
-                        <p>descripcion de socios o algo asi</p>
+                        <h3>Visitas con la frecuencia que tu desees</h3>
+                        
                     </div>
 
                     <div class="wow fadeInRight col-md-4 col-sm-4" data-wow-delay="0.9s">
                         <i class="fa fa-microphone"></i>
-                        <h3>23clientes</h3>
-                        <p>descripcion clientes con los que se trabaja</p>
+                        <h3>Soporte las 24 horas</h3>
+                        
                     </div>
 
                 </div>
@@ -165,7 +165,7 @@
                 <div class="row">
 
                     <div class="wow fadeInUp col-md-6 col-sm-10" data-wow-delay="1.3s">
-                        <h2>mira un video</h2>
+                        <h2>Conocenos un poco mas</h2>
 
                         <p>aqui una descripcion de el video que publican</p>
                     </div>
