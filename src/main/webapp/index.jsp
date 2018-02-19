@@ -70,7 +70,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="nav-item"><a href="#intro" class="nav-link js-scroll-trigger">Intro</a></li>
                         <li class="nav-item"><a href="#overview" class="nav-link js-scroll-trigger">Sobre nosotros</a></li>
-                        <li class="nav-item"><a href="#speakers" class="nav-link js-scroll-trigger">Servicios</a></li>
+                        
                         <!--<li class="nav-item"><a href="#program" class="nav-link js-scroll-trigger">Programs</a></li>-->
                         <li class="nav-item"><a href="#register" class="nav-link js-scroll-trigger">Cotiza</a></li>
                         <!--<li class="nav-item"><a href="#venue" class="nav-link js-scroll-trigger">Venue</a></li>-->

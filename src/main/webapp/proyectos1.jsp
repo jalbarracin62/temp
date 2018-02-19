@@ -79,7 +79,7 @@ die() ;
                         <span class="icon icon-bar"></span>
                         <span class="icon icon-bar"></span>
                     </button>
-                    <a href="#" class="navbar-brand">Drone Company</a>
+                    <a href="#" class="navbar-brand">Spybee</a>
                 </div>
 
                 <div class="collapse navbar-collapse">
@@ -123,74 +123,19 @@ die() ;
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
                     <a class="lightbox" href="sesion1.jsp">
-                        <img src="images/park.jpg" alt="Park">
+                        <img src="images/DJI_0046.JPG" alt="Park">
                     </a>
                     <div class="caption">
-                        <h3>Thumbnail labeeel</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h3>Chia</h3>
+                        <p>Proyecto en chia</p>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <a class="lightbox" href="sesion1.html">
-                        <img src="images/bridge.jpg" alt="Bridge">
-                    </a>
-                    <div class="caption">
-                        <h3>Thumbnail label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <a class="lightbox" href="sesion1.html">
-                        <img src="images/tunnel.jpg" alt="Tunnel">
-                    </a>
-                    <div class="caption">
-                        <h3>Thumbnail label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <a class="lightbox" href="sesion1.html">
-                        <img src="images/coast.jpg" alt="Coast">
-                    </a>
-                    <div class="caption">
-                        <h3>Thumbnail label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <a class="lightbox" href="sesion1.html">
-                        <img src="images/rails.jpg" alt="Rails">
-                    </a>
-                    <div class="caption">
-                        <h3>Thumbnail label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="thumbnail">
-                    <a class="lightbox" href="sesion1.html">
-                        <img src="images/traffic.jpg" alt="Traffic">
-                    </a>
-                    <div class="caption">
-                        <h3>Thumbnail label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
+            
+          
     </div>
 
-</div>
+
 
 
 
