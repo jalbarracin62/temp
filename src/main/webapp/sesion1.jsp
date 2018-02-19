@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <link rel="shortcut icon" href="/Untitled-1.png" />
 <!--
 New Event
 http://www.templatemo.com/tm-486-new-event
@@ -37,6 +36,11 @@ http://www.templatemo.com/tm-486-new-event
 <link href='https://fonts.googleapis.com/css?family=Poppins:400,500,600' rel='stylesheet' type='text/css'>
 
 </head>
+   <style>
+        body {
+            background-image: url("images/Stratocumulus_clouds_21072012.jpg");
+        } 
+    </style>
 <style>
 
 </style>
@@ -65,14 +69,14 @@ http://www.templatemo.com/tm-486-new-event
 				<span class="icon icon-bar"></span>
 				<span class="icon icon-bar"></span>
 			</button>
-			<a href="#" class="navbar-brand">Drone Company</a>
+			<a href="#" class="navbar-brand">Spybee</a>
 		</div>
 
 		<div class="collapse navbar-collapse">
 
 			<ul class="nav navbar-nav navbar-right">
-				<li class="nav-item"><a href="index.html" class="nav-link js-scroll-trigger">Intro</a></li>
-				<li class="nav-item"><a href="proyects.html" class="nav-link js-scroll-trigger">proyectos</a></li>
+				<li class="nav-item"><a href="index.jsp" class="nav-link js-scroll-trigger">Intro</a></li>
+				<li class="nav-item"><a href="proyectos1.jsp" class="nav-link js-scroll-trigger">proyectos</a></li>
 				
 				<li class="nav-item"><a href="#contact" class="nav-link js-scroll-trigger">Contacto</a></li>
 			</ul>
