@@ -76,6 +76,7 @@
                         <!--<li class="nav-item"><a href="#venue" class="nav-link js-scroll-trigger">Venue</a></li>-->
                         <!--<li class="nav-item"><a href="#sponsors" class="nav-link js-scroll-trigger">Sponsors</a></li>-->
                         <li class="nav-item"><a href="#contact" class="nav-link js-scroll-trigger">Contacto</a></li>
+                        <li class="nav-item"><a href="sesion.jsp" class="nav-link js-scroll-trigger">Inicio Sesion</a></li>
                     </ul>
 
                 </div>
@@ -90,11 +91,13 @@
         <section id="intro" class="parallax-section">
             <div class="container">
                 <div class="row">
-
-                    <div class="col-md-12 col-sm-12">
-                        <h3 class="wow bounceIn" data-wow-delay="0.9s">SpyBee</h3>
-                        <h1 class="wow fadeInUp" data-wow-delay="1.6s">Vemos por ti</h1>
-                        <a href="sesion.jsp" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2s" >INICIAR SESION</a>
+                    
+                    <div class="">
+                        
+                  <!--      <img src="images/Untitled-1.png" class="wow bounceIn" data-wow-delay="0.9s" ">-->
+                         
+                        
+                <!--   <a href="sesion.jsp" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2s" HSPACE="10" VSPACE="10" >INICIAR SESION</a>-->
 
                         <!--<a href="#register"  class="btn btn-lg btn-danger  smoothScroll wow fadeInUp" data-wow-delay="2s">REGISTRO</a>-->
                     </div>
@@ -194,19 +197,21 @@
                 <div class="row">
 
                     <div class="wow fadeInUp col-md-7 col-sm-7" data-wow-delay="0.6s">
-                        <h2>Registro asi</h2>
-                        <font color="white">aqui una pequeña descripcion de algo </font> 
+                        <h2>Cotiza aqui</h2>
+                        <br>
+                        <font color="white">Cuentanos que necesitas </font> 
                     </div>
 
                     <div class="wow fadeInUp col-md-5 col-sm-5" data-wow-delay="1s">
                         <form action="Index" method="post">
-                            <input name="firstname" type="text" class="form-control" id="firstname" placeholder="First Name">
-                            <input name="lastname" type="text" class="form-control" id="lastname" placeholder="Last Name">
-                            <input name="phone" type="telephone" class="form-control" id="phone" placeholder="Phone Number">
-                            <input name="email" type="email" class="form-control" id="email" placeholder="Email Address">
-                            <input name="contrasena" type="password" class="form-control" id="contrasena" placeholder="Contraseña">
+                            <input name="firstname" type="text" class="form-control" id="firstname" placeholder="Nombre">
+                            <input name="lastname" type="text" class="form-control" id="lastname" placeholder="Apellido">
+                            <input name="phone" type="telephone" class="form-control" id="phone" placeholder="Numero de telefono">
+                            <input name="email" type="email" class="form-control" id="email" placeholder="Correo electronico">
+                           <input name="text" type="text" class="form-control" id="text" placeholder="Explicanos que necesitas">
+                           
                             <div class="col-md-offset-6 col-md-6 col-sm-offset-1 col-sm-10">
-                            <input name="submit" type="submit" class="form-control" id="submit" value="REGISTER">
+                            <input name="submit" type="submit" class="form-control" id="submit" value="COTIZA">
                             </div>
                         </form>
                     </div>

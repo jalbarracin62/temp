@@ -60,7 +60,7 @@ a {
     General               
 -----------------------------------------*/
 .section-title {
-  margin-bottom: 32px;
+  margin-bottom: 3px;
 }
 
 #overview,
@@ -110,7 +110,7 @@ footer {
 
 #intro .btn-danger,
 #contact .btn-danger {
-    background: #f2545f;
+    background: #fea401;
     border-color: transparent;
 }
 
@@ -130,7 +130,7 @@ footer {
 
 #intro .btn-default:hover {
     background: #000000;
-    color: #333333;
+    color: #fea401;
     border-color: transparent;
 }
 
@@ -208,15 +208,15 @@ footer {
     color: #ddd;
     font-size: 12px;
     font-weight: 500;
-    letter-spacing: 0.6px;
+    letter-spacing: 0px;
     text-transform: uppercase;
     line-height: 40px;
-    transition: all 0.4s ease-in-out;
+    transition: all 0s ease-in-out;
 }
 
 .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #66ccff;
+    color: #ffd900;
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
@@ -226,7 +226,7 @@ footer {
 
 .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #66ccff;
+    color: #ffd900;
 }
 
 .custom-navbar .navbar-toggle {
@@ -280,7 +280,7 @@ footer {
 }
 
 #intro h3 {
-  letter-spacing: 2px;
+  letter-spacing: 200px;
 }
 
 
@@ -304,7 +304,7 @@ footer {
 }
 
 #detail .fa {
-  color: #f2545f;
+  color: #fea401;
   font-size: 48px;
 }
 
@@ -440,7 +440,7 @@ footer {
 }
 
 #register input[type="submit"] {
-  background: #f2545f;
+  background: #fea401;
   border-radius: 100px;
   border: none;
   color: #ffffff;
@@ -553,22 +553,27 @@ footer {
    Contact section              
 -----------------------------------------*/
 #contact {
+  position: center center;
     background: url('../images/contact-bg.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
 }
 
 #contact .contact_des {
+  position: center center;
+  position: center center;
   padding-top: 3rem;
   padding-right: 2rem;
 }
 
 #contact .contact_detail {
+  position: center center;
   background: #ffffff;
   padding: 5rem 5rem 12rem 5rem;
 }
 
 #contact .form-control {
+  position: center center;
   background: transparent;
   border: none;
   border-bottom: 1px solid #f0f0f0;
@@ -579,14 +584,17 @@ footer {
 }
 
 #contact .form-control:focus {
+  position: center center;
   border-bottom-color: #999;
 }
 
 #contact input {
+  position: center center;
   height: 45px;
 }
 
 #contact input[type="submit"] {
+  position: center center;
   background: #222;
   border-radius: 100px;
   border: none;
@@ -598,6 +606,7 @@ footer {
 }
 
 #contact input[type="submit"]:hover {
+  position: center center;
   background: #f2545f;
 }
 
@@ -607,6 +616,9 @@ footer {
    Footer section              
 -----------------------------------------*/
 footer {
+  
+  position: center center;
+
   background-attachment: fixed;
 }
 
@@ -614,6 +626,7 @@ footer {
 
 /* Back top */
 .go-top {
+  position: center center;
   background-color: #222;
   bottom: 2em;
   right: 2em;
@@ -630,7 +643,8 @@ footer {
 }
 
 .go-top:hover {
-    background: #f2545f;
+  position: center center;
+    background: #fea401;
     color: #ffffff;
 }
 
@@ -663,7 +677,7 @@ footer {
 }
 
 .social-icon li a:hover {
-    background: #f2545f;
+    background: #fea401;
     color: #ffffff;
 }
 
