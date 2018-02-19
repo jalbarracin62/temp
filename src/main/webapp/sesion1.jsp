@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+     <link rel="shortcut icon" href="/Untitled-1.png" />
 <!--
 New Event
 http://www.templatemo.com/tm-486-new-event
