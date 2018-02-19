@@ -117,7 +117,7 @@
 
                     <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.6s">
                         <h3>¿ Quienes somos ?</h3>
-                        <p>Somos un equipo de profecionales, ingenieros civiles especialistas en estructuras , mecanicos, electronicos y administradores con experiencia en procesos constructivos dedicada al seguimiento de obras e infraestructura civil utilizando la ultima tecnologia </p>
+                        <p>Somos un equipo de profesionales, ingenieros civiles especialistas en estructuras , mecanicos, electronicos y administradores con experiencia en procesos constructivos dedicada al seguimiento de obras e infraestructura civil utilizando la ultima tecnologia </p>
 
                     </div>
 
