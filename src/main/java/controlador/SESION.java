@@ -38,7 +38,7 @@ public class SESION extends HttpServlet {
                     if (c.findAll().get(i).getEmail().equals(usuario) && c.findAll().get(i).getPasswordd().equals(password)) {
 
                         String nregistro = String.valueOf(c.findAll().get(i).getNreguistro());
-                        String temp = "proyectos1" + nregistro + ".jsp";
+                        String temp = "proyectos" + nregistro + ".jsp";
                         request.getRequestDispatcher(temp).forward(request, response);
                         i2++;
 
