@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <link rel="shortcut icon" href="images/Untitled-1.png" type="image/png" />
+        <!--
+        New Event
+        http://www.templatemo.com/tm-486-new-event
+        -->
+        <title>Spybee</title>
         <!--
         New Event
         http://www.templatemo.com/tm-486-new-event
